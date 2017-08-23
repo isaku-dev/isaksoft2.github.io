@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "isakuwork",
+    "description": "",
+    "home_page_url": "http://isaku.work",
+    "feed_url": "http://isaku.work/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "AI"
+    },
+    "items": [
+    ]
+}
